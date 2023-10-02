@@ -1,2 +1,2 @@
-# python_related
-Python libraries that I've worked on
+# Description
+This repository showcases the python libraries that I've worked on
