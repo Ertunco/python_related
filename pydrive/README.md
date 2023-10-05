@@ -1,6 +1,6 @@
 # Description
 
-This Python script list files in a Google Drive folder.
+This Python script lists files in a Google Drive folder.
 
 To use the script, you will need to have the following installed:
 
@@ -38,5 +38,3 @@ If you are having trouble using the script, please check the following:
 
 - Make sure you have installed all of the required dependencies.
 - Make sure you have entered your Google Drive credentials.
-
-If you are still having trouble, please post an issue on the GitHub repository for this project.
